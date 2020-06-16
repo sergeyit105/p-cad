@@ -1,0 +1,264 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+C:\Users\Сергей\Desktop\Exam.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+Error 1 -- Net GND is a single node net
+Error 2 -- Net NET00003 is a single node net
+Error 3 -- Net NET00004 is a single node net
+Error 4 -- Net NET00005 is a single node net
+Error 5 -- Net +7B is a single node net
+Error 6 -- Net NET00012 is a single node net
+Error 7 -- Net NET00017 is a single node net
+Error 8 -- Net NET00022 is a single node net
+
+0 warning(s) detected.
+8 error(s) detected.
+
+NO NODE NETS:
+
+Error 9 -- Net NET00015 has no nodes
+Error 10 -- Net NET00020 has no nodes
+
+0 warning(s) detected.
+2 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net NET00002 has no input pins
+Warning 2 -- Net NET00002 has no output pins
+Warning 3 -- Net GND has no input pins
+Warning 4 -- Net GND has no output pins
+Warning 5 -- Net NET00003 has no input pins
+Warning 6 -- Net NET00003 has no output pins
+Warning 7 -- Net NET00004 has no input pins
+Warning 8 -- Net NET00004 has no output pins
+Warning 9 -- Net NET00005 has no input pins
+Warning 10 -- Net NET00005 has no output pins
+Warning 11 -- Net NET00006 has no input pins
+Warning 12 -- Net NET00006 has no output pins
+Warning 13 -- Net NET00007 has no input pins
+Warning 14 -- Net NET00007 has no output pins
+Warning 15 -- Net 1 has no input pins
+
+----------------------------------------------------------------------
+
+16-Jun-20  13:02                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 16 -- Net 1 has no output pins
+Warning 17 -- Net NET00008 has no input pins
+Warning 18 -- Net NET00008 has no output pins
+Warning 19 -- Net NET00009 has no input pins
+Warning 20 -- Net NET00009 has no output pins
+Warning 21 -- Net +7B has no input pins
+Warning 22 -- Net +7B has no output pins
+Warning 23 -- Net NET00011 has no input pins
+Warning 24 -- Net NET00011 has no output pins
+Warning 25 -- Net NET00012 has no input pins
+Warning 26 -- Net NET00012 has no output pins
+Warning 27 -- Net NET00017 has no input pins
+Warning 28 -- Net NET00017 has no output pins
+Warning 29 -- Net NET00018 has no input pins
+Warning 30 -- Net NET00018 has no output pins
+Warning 31 -- Net NET00015 has no input pins
+Warning 32 -- Net NET00015 has no output pins
+Warning 33 -- Net NET00019 has no input pins
+Warning 34 -- Net NET00019 has no output pins
+Warning 35 -- Net NET00020 has no input pins
+Warning 36 -- Net NET00020 has no output pins
+Warning 37 -- Net NET00022 has no input pins
+Warning 38 -- Net NET00022 has no output pins
+Warning 39 -- Net NET00023 has no input pins
+Warning 40 -- Net NET00023 has no output pins
+Warning 41 -- Net NET00024 has no input pins
+Warning 42 -- Net NET00024 has no output pins
+
+42 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Warning 43 -- Unconnected pin C1-2 on sheet:Sheet1 at mm ( 15.240,109.380)
+Warning 44 -- Unconnected pin VT1-2 on sheet:Sheet1 at mm ( 55.720, 91.280)
+Warning 45 -- Unconnected pin VT1-3 on sheet:Sheet1 at mm ( 55.720, 71.280)
+Warning 46 -- Unconnected pin R2-2 on sheet:Sheet1 at mm ( 55.880,104.460)
+Warning 47 -- Unconnected pin R4-2 on sheet:Sheet1 at mm ( 81.280, 96.840)
+Warning 48 -- Unconnected pin R5-2 on sheet:Sheet1 at mm ( 81.280,134.940)
+Warning 49 -- Unconnected pin C4-2 on sheet:Sheet1 at mm (116.840, 71.280)
+Warning 50 -- Unconnected pin VD3-2 on sheet:Sheet1 at mm (121.920,154.620)
+Warning 51 -- Unconnected pin R7-2 on sheet:Sheet1 at mm (274.000,162.560)
+Warning 52 -- Unconnected pin C7-2 on sheet:Sheet1 at mm (355.600,139.540)
+Warning 53 -- Unconnected pin C2-2 on sheet:Sheet1 at mm ( 45.560,127.000)
+Warning 54 -- Unconnected pin R6-2 on sheet:Sheet1 at mm (185.100, 91.440)
+Warning 55 -- Unconnected pin VT2-2 on sheet:Sheet1 at mm (203.040,101.440)
+Warning 56 -- Unconnected pin VT2-3 on sheet:Sheet1 at mm (203.040, 81.440)
+Warning 57 -- Unconnected pin R8-2 on sheet:Sheet1 at mm (238.760,109.540)
+Warning 58 -- Unconnected pin R9-2 on sheet:Sheet1 at mm (266.700,109.540)
+Warning 59 -- Unconnected pin R10-2 on sheet:Sheet1 at mm (289.560,109.540)
+Warning 60 -- Unconnected pin R11-2 on sheet:Sheet1 at mm (314.960,107.000)
+Warning 61 -- Unconnected pin SA1-A on sheet:Sheet1 at mm (383.540,127.000)
+Warning 62 -- Unconnected pin R3-2 on sheet:Sheet1 at mm ( 55.880,137.480)
+Warning 63 -- Unconnected pin R1-2 on sheet:Sheet1 at mm ( 47.940, 99.060)
+Warning 64 -- Unconnected pin C5-2 on sheet:Sheet1 at mm (256.380,101.600)
+Warning 65 -- Unconnected pin ZQ1-2 on sheet:Sheet1 at mm (279.200, 38.100)
+Warning 66 -- Unconnected pin VT5-2 on sheet:Sheet1 at mm (314.800, 91.280)
+
+----------------------------------------------------------------------
+
+16-Jun-20  13:02                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 67 -- Unconnected pin VT5-3 on sheet:Sheet1 at mm (314.800, 71.280)
+Warning 68 -- Unconnected pin C6-2 on sheet:Sheet1 at mm (309.720,101.600)
+Warning 69 -- Unconnected pin HL1-2 on sheet:Sheet1 at mm (342.580,142.240)
+Warning 70 -- Unconnected pin VD1-2 on sheet:Sheet1 at mm (111.440, 91.440)
+Warning 71 -- Unconnected pin C3-2 on sheet:Sheet1 at mm ( 70.960, 91.440)
+Warning 72 -- Unconnected pin VT6-2 on sheet:Sheet1 at mm (103.980,134.460)
+Warning 73 -- Unconnected pin VT6-3 on sheet:Sheet1 at mm (103.980,114.460)
+
+31 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+Error 11 -- Unconnected wire end on sheet:Sheet1 at mm (355.600,139.700)
+Error 12 -- Unconnected wire end on sheet:Sheet1 at mm ( 55.880,104.140)
+Error 13 -- Unconnected wire end on sheet:Sheet1 at mm ( 55.880,137.160)
+Error 14 -- Unconnected wire end on sheet:Sheet1 at mm (104.140,114.300)
+Error 15 -- Unconnected wire end on sheet:Sheet1 at mm (116.840, 71.120)
+Error 16 -- Unconnected wire end on sheet:Sheet1 at mm (203.200, 81.280)
+Error 17 -- Unconnected wire end on sheet:Sheet1 at mm (238.760,109.220)
+Error 18 -- Unconnected wire end on sheet:Sheet1 at mm (314.960,106.680)
+Error 19 -- Unconnected wire end on sheet:Sheet1 at mm (383.540,129.540)
+Error 20 -- Unconnected wire end on sheet:Sheet1 at mm ( 55.880, 71.120)
+Error 21 -- Unconnected wire end on sheet:Sheet1 at mm ( 81.280, 96.520)
+Error 22 -- Unconnected wire end on sheet:Sheet1 at mm ( 81.280,134.620)
+Error 23 -- Unconnected wire end on sheet:Sheet1 at mm (203.200,101.600)
+Error 24 -- Unconnected wire end on sheet:Sheet1 at mm (314.960, 71.120)
+Error 25 -- Unconnected wire end on sheet:Sheet1 at mm (314.960, 91.440)
+Error 26 -- Unconnected wire end on sheet:Sheet1 at mm (104.140,134.620)
+Error 27 -- Unconnected wire end on sheet:Sheet1 at mm ( 45.720,127.000)
+Error 28 -- Unconnected wire end on sheet:Sheet1 at mm (256.540,101.600)
+Error 29 -- Unconnected wire end on sheet:Sheet1 at mm (309.880,101.600)
+Error 30 -- Unconnected wire end on sheet:Sheet1 at mm (342.900,142.240)
+Error 31 -- Unconnected wire end on sheet:Sheet1 at mm ( 15.240,109.220)
+Error 32 -- Unconnected wire end on sheet:Sheet1 at mm ( 48.260, 99.060)
+Error 33 -- Unconnected wire end on sheet:Sheet1 at mm ( 71.120, 91.440)
+Error 34 -- Unconnected wire end on sheet:Sheet1 at mm (111.760, 91.440)
+Error 35 -- Unconnected wire end on sheet:Sheet1 at mm (266.700,109.220)
+Error 36 -- Unconnected wire end on sheet:Sheet1 at mm (289.560,109.220)
+Error 37 -- Unconnected wire end on sheet:Sheet1 at mm (121.920,154.940)
+Error 38 -- Unconnected wire end on sheet:Sheet1 at mm (274.320,162.560)
+Error 39 -- Unconnected wire end on sheet:Sheet1 at mm (185.420, 91.440)
+Error 40 -- Unconnected wire end on sheet:Sheet1 at mm (279.400, 38.100)
+
+0 warning(s) detected.
+30 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+
+----------------------------------------------------------------------
+
+16-Jun-20  13:02                                            Page    3
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         8
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         2
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       42
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       31
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         30
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+----------------------------------------------------------------------
+
+16-Jun-20  13:02                                            Page    4
+
